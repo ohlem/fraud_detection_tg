@@ -1,1 +1,1 @@
-echo "*.ipynb -text" > .gitattributes
+*.ipynb -text
